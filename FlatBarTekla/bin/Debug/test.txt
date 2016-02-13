@@ -1,0 +1,39 @@
+
+The Lengths for 93x10 follow
+140.00 
+The Lengths for 84x16 follow
+1,988.00 1,988.00 
+The Lengths for 205x12 follow
+210.00 
+The Lengths for 140x10 follow
+140.00 
+The Lengths for 140x16 follow
+300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 400.00 
+The Lengths for 90x20 follow
+343.00 380.00 
+The Lengths for 300x16 follow
+300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 300.00 440.00 
+The Lengths for 90x16 follow
+140.00 210.00 210.00 220.00 345.00 345.00 
+The Lengths for 300x20 follow
+300.00 300.00 
+The Lengths for 165x10 follow
+350.00 350.00 350.00 
+The Lengths for 89x5 follow
+89.00 89.00 89.00 89.00 89.00 89.00 89.00 
+The Lengths for 70x12 follow
+137.00 137.00 
+The Lengths for 220x20 follow
+220.00 
+The Lengths for 131x12 follow
+210.00 
+The Lengths for 207x10 follow
+220.00 
+The Lengths for 970x10 follow
+1,230.00 1,230.00 2,420.00 2,420.00 
+The Lengths for 243x10 follow
+490.28 490.28 490.28 490.28 490.28 490.28 
+The Lengths for 249x10 follow
+6,200.00 6,200.00 6,200.00 
+The Lengths for 240x10 follow
+6,200.00 6,200.00 6,200.00 

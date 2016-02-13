@@ -1,0 +1,48 @@
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\FlatBarTekla.exe.config
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\MainWindow.baml
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\MainWindow.g.cs
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\App.g.cs
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla_MarkupCompile.cache
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.g.resources
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.Properties.Resources.resources
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.csproj.GenerateResource.Cache
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\FlatBarTekla.exe
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\FlatBarTekla.pdb
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Structures.Plugins.dll
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.dll
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Mono.Cecil.dll
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Structures.Plugins.xml
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.xml
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.exe
+c:\users\koshy\documents\visual studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.pdb
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\FlatBarTekla.exe.manifest
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\FlatBarTekla\FlatBarTekla\bin\Debug\FlatBarTekla.application
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.exe.manifest
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\FlatBarTekla\FlatBarTekla\obj\Debug\FlatBarTekla.application
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\FlatBarTekla.exe.config
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\FlatBarTekla.exe.manifest
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\FlatBarTekla.application
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\FlatBarTekla.exe
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\FlatBarTekla.pdb
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Mono.Cecil.dll
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Tekla.Structures.Plugins.xml
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.Primitives.xml
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\bin\Debug\Tekla.Common.Geometry.xml
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.csprojResolveAssemblyReference.cache
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\MainWindow.baml
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\MainWindow.g.cs
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\App.g.cs
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla_MarkupCompile.cache
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.g.resources
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.Properties.Resources.resources
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.csproj.GenerateResource.Cache
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.exe.manifest
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.application
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.exe
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\Useful Solutions (do not Delete)\MulitDrawing Selector - flatbars plates and members all combined\FlatBarTekla\obj\Debug\FlatBarTekla.pdb

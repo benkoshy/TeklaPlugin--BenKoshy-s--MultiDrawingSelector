@@ -1,0 +1,50 @@
+﻿<Window x:Class="FlatBarTekla.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Multi-Drawing Selector Version 4.0 ben.k@tek1.com.au +61 3 9560 6397" Height="500" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ListBox x:Name="lstProfiles" Grid.Column="0" Grid.Row="0" MouseDoubleClick="lstProfiles_MouseDoubleClick"></ListBox>
+        <ListBox x:Name="lstParts" SelectionMode="Extended" Grid.Column="1" Grid.Row="0" SelectionChanged="lstParts_SelectionChanged"></ListBox>
+        <StackPanel Grid.Column="0" Grid.Row="1" Grid.ColumnSpan ="3" >
+            <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan ="3" FontSize="10" > Release 4: For Internal Use Only. Written by Ben Koshy for Tek1 Pty Ltd. For comments/criticisms: Ben.k@tek1.com.au +61 411 022 502. The CSV file must exist in a certain format showing flat bar dimensions. If a part drawing already exists in a multi drawing, it will not show up in the above list boxes. REMEMBER to press the refresh to check whether all drawings are put in multisheet drawings. COPYRIGHT: You can use this code but do not sell it, nor modify it and then sell it. Please acknowledge the author in all drawings where this is used.</TextBlock>
+            <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan ="3" FontStyle="Normal" FontWeight="ExtraBold" FontSize="10" > DISCLAIMER: USE CODE AT OWN RISK! The author and the firm make no warranties about this application, nor will either indemnify you against any loss which may be incurred through the use of this program. Use this application at your own risk!</TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2">
+            <Button Click="Button_Click_1">Refresh</Button>
+            <Button Click="Button_Click">Select Parts</Button>
+            <Button Click="Button_ClearClick_2">Clear</Button>
+            <Label>Number Selected:</Label>
+            <TextBlock x:Name="noSelected"></TextBlock>
+            <TextBlock Margin="0 5"  TextWrapping="WrapWithOverflow"> Please Select Flat Bar or Non-standard Profiles or Members below. Standard sized flatbars will be sorted into one list and all non-standard items will have to be cut as plates. All parts will be ordered by length. </TextBlock>
+            <ComboBox x:Name="comboDictionaryChoice" Margin="0 1" SelectionChanged="comboDictionaryChoice_SelectionChanged">
+                <ComboBoxItem IsSelected="True">FlatBar</ComboBoxItem>
+                <ComboBoxItem>Plates</ComboBoxItem>
+                <ComboBoxItem>Members</ComboBoxItem>
+            </ComboBox>
+            <TextBlock TextWrapping="WrapWithOverflow"> 
+                Tek1 Pty Ltd <LineBreak/>
+                <Hyperlink>www.tek1.com.au</Hyperlink>
+                <Hyperlink>info@tek1.com.au</Hyperlink> <LineBreak/>
+                +61 3 9560 6397
+                <LineBreak/>
+                <LineBreak/>
+                Apps on .net, Autocad, Ruby on Rails or Teka? Contact the above.
+                
+            
+            </TextBlock>
+
+        </StackPanel>
+    </Grid>
+</Window>
